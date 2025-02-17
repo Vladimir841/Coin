@@ -12,7 +12,7 @@ do
         ((a++))
     fi
 
-    if [[ $output == *"Melisa"* ]]; then
+    if [[ $output == *"Teodor"* ]]; then
         ((b++))
     fi
 done

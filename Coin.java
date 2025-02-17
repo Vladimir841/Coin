@@ -1,6 +1,6 @@
 class Coin {
     public static void main(String[] args) {
-        Player one = new Player("Melisa");
+        Player one = new Player("Teodor");
         Player two = new Player("Alex");
 
         int count = 0;
